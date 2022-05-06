@@ -1,0 +1,22 @@
+{
+  "homepage": "http://wobo-rgarcia.github.io/storybook-demo",
+  "name": "storybook-demo",
+  "version": "1.0.0",
+  "description": "This repo publish storybook demos",
+  "main": "index.js",
+  "scripts": {
+    "deploy-storybook": "gh-pages -d storybook-static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wobo-rgarcia/storybook-demo.git"
+  },
+  "author": "Raudel Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wobo-rgarcia/storybook-demo/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
